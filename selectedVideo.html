@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YouTube</title>
+    <link rel="stylesheet" href="./style.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=ABeeZee&family=Nunito:wght@300;400;700&family=Poppins:wght@200;300;400&family=Young+Serif&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <nav class="myNav youtubeMain">
+      <div class="leftNav">
+        <i id="menubar"
+          class="fa-sharp fa-solid fa-bars fontIcon"
+          style="color: #0d0d0d"
+        ></i>
+        <img
+          src="https://t3.ftcdn.net/jpg/03/00/38/90/240_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg"
+        />
+      </div>
+      <div class="centreNav">
+        <div class="inputDiv">
+          <input id="searchInput" type="text" placeholder="search" />
+
+          <div id="searchDiv" class="searchDiv">
+            <i
+              class="fa-solid fa-magnifying-glass fontIcon"
+              style="color: #0a0a0a"
+            ></i>
+          </div>
+        </div>
+        <div class="mic">
+          <i class="fa-solid fa-microphone" style="color: #0c0d0d"></i>
+        </div>
+      </div>
+      <div class="rightNav">
+        <i class="fa-solid fa-video fontIcon" style="color: #0a0a0b"></i>
+        <i class="fa-regular fa-bell fontIcon" style="color: #050505"></i>
+        <div class="profile">K</div>
+      </div>
+    </nav>
+
+    <main class="selectedVideo">
+      <div class="mainVideoSection">
+        <div id="mainVideo" class="mainVideo">
+
+        </div>
+
+        <div id="mainVideoInfo" class="mainVideoInfo">
+          <!-- <h3>Video Title</h3>
+          <div class="videoInfo">
+            <div class="channel">
+              <img />
+              <div>
+                <h4>Channel Name</h4>
+                <p>subscribers</p>
+              </div>
+              <button class="subscribe">Subscribe</button>
+            </div>
+
+            <div class="channel">
+              <button class="likeButton">
+                <i id="thumpUP" class="fa-regular fa-thumbs-up" style="color: #080808"></i>
+                <p>like</p>
+                <div class="horizontalLine"></div>
+                <i id="thumpDown"  class="fa-regular fa-thumbs-down" style="color: #080808"></i>
+              </button>
+              <button class="likeButton">
+                <i
+                  class="fa-regular fa-share-from-square"
+                  style="color: #0a0a0a"
+                ></i>
+                Share
+              </button>
+              <button class="likeButton">
+                <i class="fa-solid fa-ellipsis" style="color: #0c0d0d"></i>
+              </button>
+            </div>
+          </div> -->
+        </div>
+        <div class="comments">
+          <div class="commentHeading">
+            <h2> Comments</h2>
+            <div class="commentHeadingSort">
+              <i class="fa-solid fa-arrow-down-wide-short" style="color: #080808;"></i>
+              <p>sort by</p>
+            </div>
+          </div>
+
+          <div class="profileComment">
+            <div class="profile profileC">K</div>
+            <div class="profileComent">
+              <input id="ownerComment" type="text" placeholder="Add a comment"></input>
+              <div class="longHorizontalLine"></div>
+            </div>
+            
+          </div>
+
+
+          <div id="userCommentSection" class="userCommentSection">
+
+            <!-- <div class="individualComentSection">
+
+          <div class="userComment channel">
+            
+              <img>
+              
+          
+          <div class="">
+              <p>userid</p>
+              <p> comment</p>
+          </div>
+          </div>
+          <div class="comentLikeDislike">
+           <div>
+            <i class="fa-regular fa-thumbs-up" style="color: #080808"></i>
+
+            <i class="fa-regular fa-thumbs-down" style="color: #080808"></i>
+          </div>
+          <p>Reply</p>
+
+          </div>
+        </div> -->
+
+        
+
+        
+        </div>
+        </div>
+      </div>
+
+      
+     
+     
+      
+      <div id="recommendedVideo" class="recommendedVideo">
+
+        
+        
+      
+
+
+      <!-- <div class="recommenedvideoCard">
+        <img>
+        <div>
+        <div class="channel">
+           
+            <h4>frtghyuj juiklo tyhh huejekje nbdht4ihoe hthe</h4>
+        </div>
+        <div >
+            <p>erftg njii tg</p>
+            <p> cdrvv nu</p>
+        </div>
+      </div>
+
+
+    </div> -->
+    
+ 
+
+      </div>
+    </main>
+    <script src="./script.js"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="./selectedVideo.js"></script>
+  </body>
+</html>

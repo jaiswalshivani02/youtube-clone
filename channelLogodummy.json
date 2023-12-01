@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "PaPZHG2pKvzov1tzN4AucZX6i1U",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "KURLrlNB7N20TR84gWEURmRUGq4",
+            "id": "UCEU2_ogb5k4k1qC82y8jZ8A",
+            "snippet": {
+                "title": "Crictales",
+                "description": "Welcome to the official channel of Crictales where you get Live Scores and Urdu/Hindi Commentary of all Cricket Matches. Join us on International, Domestic, and T20 Leagues matches to listen to a detailed and descriptive audio commentary along with a interesting scorecards and statistics.\n\nFOR BUSINESS ENQUIRIES\nBusiness sponsorship : \nsocialcrictales@gmail.com\n\n CONTECT ON INSTAGRAM AS WELL : https://www.instagram.com/crictales/\n\nOur Team Is Always Working for You Guys!! We Make Videos On Every International Cricket Match, Leagues Matches and Much More!!!!\nWhat Are You Waiting For???\nSubscribe Now!!!!\n\nWe Are Developing As A Family So Don't Wait For Now.\nYou are Awesome So Subscribe Now.\n\nWE ARE GROWING... 👨‍👨‍👦👨‍👨‍👦‍👦👩‍👩‍👦‍👦👩‍👩‍👧‍👧\n\n✔️ RESPECT TO SUBSCRIBERS 🎩😍😍 ❤️\n\n",
+                "customUrl": "@crictales",
+                "publishedAt": "2016-09-28T11:09:00Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZEeKtUjPCnep8dRD7r5FQajwddip544_38Q_hm=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZEeKtUjPCnep8dRD7r5FQajwddip544_38Q_hm=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/APkrFKZEeKtUjPCnep8dRD7r5FQajwddip544_38Q_hm=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Crictales",
+                    "description": "Welcome to the official channel of Crictales where you get Live Scores and Urdu/Hindi Commentary of all Cricket Matches. Join us on International, Domestic, and T20 Leagues matches to listen to a detailed and descriptive audio commentary along with a interesting scorecards and statistics.\n\nFOR BUSINESS ENQUIRIES\nBusiness sponsorship : \nsocialcrictales@gmail.com\n\n CONTECT ON INSTAGRAM AS WELL : https://www.instagram.com/crictales/\n\nOur Team Is Always Working for You Guys!! We Make Videos On Every International Cricket Match, Leagues Matches and Much More!!!!\nWhat Are You Waiting For???\nSubscribe Now!!!!\n\nWe Are Developing As A Family So Don't Wait For Now.\nYou are Awesome So Subscribe Now.\n\nWE ARE GROWING... 👨‍👨‍👦👨‍👨‍👦‍👦👩‍👩‍👦‍👦👩‍👩‍👧‍👧\n\n✔️ RESPECT TO SUBSCRIBERS 🎩😍😍 ❤️\n\n"
+                },
+                "country": "SA"
+            }
+        }
+    ]
+}
